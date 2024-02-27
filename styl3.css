@@ -5,9 +5,7 @@ body {
 #banerLewy,
 #banerSrodkowy,
 #banerPrawy,
-#stopka1,
-#stopka2,
-#stopka3 {
+#stopka1,#stopka2,#stopka3 {
 	background: SaddleBrown;
 	color: white;
 	height: 100px;
